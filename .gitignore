@@ -1,0 +1,11 @@
+node_modules/
+/.env
+/server/node_modules/
+/client/node_modules/
+dist/
+.DS_Store
+npm-debug.log
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+*.log
